@@ -11,7 +11,7 @@ Required
 How to create an SMS Application
 --------------------------------
 * First you should add class into your project which placed api folder
-* Apis provides two classes to receive and send messages
+* Api provides two classes to receive and send messages
 
   * To receive messages : SmsListener
   * To send messages : SmsSender
