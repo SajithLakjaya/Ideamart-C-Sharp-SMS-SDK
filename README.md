@@ -5,8 +5,8 @@ Required
 ---------
 * Microsoft .NET Framework 4
 * Ideamart SMS Simulator
-  You can download Ideamart Multiuser SMS Simulator using following link
-		https://github.com/SajithLakjaya/Ideamart-Multiuser-SMS-Simulator/downloads
+  	* You can download Ideamart Multiuser SMS Simulator using following link
+		* https://github.com/SajithLakjaya/Ideamart-Multiuser-SMS-Simulator/downloads
 
 How to create an SMS Application
 --------------------------------
