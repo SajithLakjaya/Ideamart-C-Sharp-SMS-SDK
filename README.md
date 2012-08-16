@@ -34,7 +34,7 @@ Receiving SMS
 	        }
         }
 
-* SMS receiving application is a simple web application. Therefore you must configure web.xml as below
+* SMS receiving application is a simple web application. Therefore you must configure web.config as below
 
         <?xml version="1.0"?>
           <configuration>
