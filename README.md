@@ -1,4 +1,4 @@
-Ideamart C# SMS api
+Ideamart C# SMS SDK
 =====================
 
 Required
